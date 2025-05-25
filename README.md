@@ -3,7 +3,7 @@
 <!--
 **aman3599/aman3599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Aman Syed and I am a Financial Mathematics grad from NC State, currently working as an AVP, Securities Finance Risk at State Street.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
