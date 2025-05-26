@@ -1,6 +1,6 @@
-#### Hello!
+### Hello!!
 
-- 👋 My name is Aman Syed and I'm a Financial Mathematics grad from NC State, currently working in Portfolio and Risk Management
+- 👋 My name is Aman Syed and I'm a Financial Mathematics graduate from NC State, currently in Portfolio and Risk Management
 - 👀 I'm an experienced Trader and Quant, extremely passionate about poker and the financial markets
 - 👯 I’m looking to collaborate on projects related to Algo Trading, Alpha Generation, Game Theory, ML and Quant Finance
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aman-syed/) or email me at asyed22@ncsu.edu
