@@ -4,7 +4,7 @@
 - 🔭 I am a Financial Mathematics grad from NC State, currently working in Portfolio and Risk Management
 - 👀 Experienced Trader and Quant, passionate about the financial markets
 - 👯 I’m looking to collaborate on projects related Algo Trading, Alpha Generation and Quant Finance
-- 📫 How to reach me: [LinkedIn]([(https://www.linkedin.com/in/aman-syed/)]) or email me at asyed22@ncsu.edu
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aman-syed/) or email me at asyed22@ncsu.edu
 
 <!--
 **aman3599/aman3599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
