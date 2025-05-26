@@ -1,8 +1,9 @@
 #### Hello!
 
 - 👋 My name is Aman Syed
-- 🔭 I am a Financial Mathematics grad from NC State, currently working as an AVP, Securities Finance Risk at State Street
+- 🔭 I am a Financial Mathematics grad from NC State, currently working in Portfolio and Risk Management
 - 👀 Experienced Trader and Quant, passionate about the financial markets
+- 👯 I’m looking to collaborate on projects related Algo Trading, Alpha Generation and Quant Finance
 
 <!--
 **aman3599/aman3599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
