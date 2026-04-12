@@ -19,7 +19,7 @@ MSc Financial Mathematics · NCSU &nbsp;|&nbsp; BEng Computer Science · BITS Pi
 
 | Firm | Role | Highlight |
 |---|---|---|
-| **State Street** | Credit Risk Quant | $600B Securities Lending book · CCAR/Basel III stress testing |
+| **State Street** | Portfolio Risk Quant | $600B Securities Lending book · CCAR/Basel III stress testing |
 | **MSCI** | Quantitative Researcher | 70+ multi-asset strategies · MSCI Risk Control Indices |
 | **Futures First** | Quant Trader (Oil & Gas) | $15MM+ intraday volume · Sharpe 2.8 · 80% hit rate |
 | **Clearway Energy** | Quant Modelling Intern | Jump-diffusion forecasting · Power trading models · BESS Portfolio Optimization |
