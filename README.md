@@ -30,7 +30,7 @@ MSc Financial Mathematics · NCSU &nbsp;|&nbsp; BEng Computer Science · BITS Pi
 
 - Walk-forward validation on the crypto stat-arb pipeline
 - Learning KDB/Q for tick-data workflows
-- Exploring live execution and signal robustness under regime change
+- Macro momentum strategy adapting to geopolitical uncertainty
 
 ---
 
