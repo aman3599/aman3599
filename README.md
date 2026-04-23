@@ -1,5 +1,5 @@
 # Aman Syed
-**Quant Researcher · Derivatives Trader · Risk Engineer**
+**Quant Researcher · Energy Trader · Risk Engineer**
 
 Building at the intersection of quantitative finance, systematic trading, and machine learning; from energy futures desks to crypto stat-arb, index rebalancing alpha, and counterparty credit risk modelling.
 
