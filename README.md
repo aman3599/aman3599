@@ -3,14 +3,6 @@
 
 Building at the intersection of quantitative finance, systematic trading, and machine learning; from energy futures desks to crypto stat-arb, index rebalancing alpha, and counterparty credit risk modelling.
 
-`Python` `C++` `KDB/Q` | `Stat-Arb` `Derivatives` `Factor Models` | `ML in Finance` `Time Series` `Stochastic Processes`
-
----
-
-## About me
-
-I'm a quant with experience spanning systematic energy futures trading (ICE/CME/NYMEX), index research at MSCI, power market price forecasting, and counterparty credit risk at State Street. My work lives at the edge of rigorous mathematical modelling and real market intuition. I care about strategies that work under live conditions, not just in backtests.
-
 MSc Financial Mathematics · NCSU &nbsp;|&nbsp; BEng Computer Science · BITS Pilani &nbsp;|&nbsp; Boston, MA
 
 ---
